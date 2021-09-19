@@ -1,0 +1,15 @@
+# Summary
+
+- [Transitions](./transitions.md)
+- [Transition properties](./transition_properties.md)
+- [Transition pavyzdis](./transition_example.md)
+- [Timing functions](./timing_functions.md)
+- [Steps](./steps.md)
+- [Transforms](./transforms.md)
+- [Rotate, translate, scale ir skew](./rotate_translate_scale_and_skew.md)
+- [Užduotis 1](./exercise_1.md)
+- [Transform origin](./transform_origin.md)
+- [Praktinė užduotis](./practical_exercise.md)
+- [Savarankiška užduotis](./self_practical_exercise.md)
+- [(3D) transforms](./3D_transforms.md)
+- [(3D) transforms pavyzdžiai](./3D_transforms_examples.md)
